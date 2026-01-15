@@ -44,6 +44,16 @@ This project provides an AI-powered platform that:
 
 ---
 
+## Live Project Links
+
+### Frontend (Netlify) 
+https://clinquant-sfogliatella-136838.netlify.app/
+
+### Backend API (Render) 
+https://sustainability-insight-platform-using-ai.onrender.com
+
+---
+
 ## 🚀 Future Enhancements
 - User accounts and progress tracking
 - Carbon footprint score visualization
